@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akanda Hasan
 - 👀 I’m interested in UX design
 - 🌱 I’m currently learning Design System
-- 💞️ I’m looking to collaborate on SaaS design
+- 💞️ I’m looking to collaborate on SaaS
 - 📫 How to reach me akanda22@gmail.com
 
 <!---
